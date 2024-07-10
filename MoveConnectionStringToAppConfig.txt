@@ -1,0 +1,8 @@
+<configuration>
+  <connectionStrings>
+    <add name="InventoryDB" connectionString="Data Source=YOUR_SERVER;Initial Catalog=YOUR_DATABASE;Persist Security Info=True;User ID=YOUR_USER_ID;Password=YOUR_PASSWORD;Trust Server Certificate=True" />
+  </connectionStrings>
+</configuration>
+
+
+//Change The Connection String And Name.
